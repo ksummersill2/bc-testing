@@ -1,0 +1,5 @@
+{
+    "name": "ant-maven-jdk8",  
+    // "image": "ant-maven-jdk8:1.0.0"
+    "image": "golang:bullseye"
+}
