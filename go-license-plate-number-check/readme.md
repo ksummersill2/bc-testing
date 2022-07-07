@@ -2,7 +2,7 @@
 To execute run within .devcontainer using "Remote Development" extention in VSCode
 Run the following command:
 ```
-go run licenseplacecheck.go <input argument>
+go run licenseplatecheck.go <input argument>
 ```
 For this test the following input arguments were used:
 * 261403-tools
